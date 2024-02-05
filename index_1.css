@@ -1,0 +1,177 @@
+/* header{
+    top: 0%;
+    position: sticky;
+} */
+.headlogo{
+    width: 150px;
+    height: 90px;
+}
+.hlogo1{
+    text-align: center;
+    margin-top: -80px;
+    font-size: 26px;
+    font-weight: bolder;
+    color: rgb(89, 142, 163);
+   }
+   .headcall{
+    float: right;
+    margin-top: -100px;
+   }
+.nav-links{
+    display: flex;
+    background-color: rgb(34, 85, 99);
+}
+.nav-links li{
+    list-style: none;
+    margin: 17px;
+    font-size: 17px;
+}
+.nav-links li a{
+    text-decoration: none;
+    color: ghostwhite;
+    padding: 2px;
+    
+}
+.nav-links li a:hover{
+    background-color: cornsilk;
+    color: darkslateblue;
+}
+.hedboby1{
+    display: flex;
+}
+.headbody11{
+    width: 25%;
+    height: 300px;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-top: -22px;
+}
+.headbody11 .headp{
+    /* border: 1px solid black; */
+    background-color: rgb(22, 60, 62);
+    color: azure;
+    font-size: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.headbtn1{
+    width: 100%;
+    margin: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px;
+    border: none;
+    box-shadow: 1px 1px 1px 1px grey;
+   
+}
+.headbtn1:hover{
+    background-color: black;
+    color: ghostwhite;
+}
+.headbtn1 a{
+    text-decoration: none;
+    color: black;
+}
+.headbtn1 :hover{
+color: ghostwhite;
+}
+.headbtnp{
+    margin-top: -10px;
+}
+.headbody12{
+    width: 50%;
+    height: 300px;
+    /* border: 1px solid black; */
+    
+}
+.headimg img{
+    width: 500px;
+    margin-left: 30px;
+    height: 300px;
+
+}
+.headimgslide {
+    margin-left: 250px;
+ }
+ .headimgslide button{
+     width: 10px;
+     height: 10px;
+     border-radius: 50%;
+     border: none;
+     background-color: rgb(162, 211, 221);
+ }
+ .headimgslide button:hover{
+     background-color: black;
+ }
+.headbody13{
+    width: 25%;
+    height: 300px;
+    /* border: 1px solid black; */
+  
+}
+.headpright{
+    margin-top: -5px;
+    border: 1px solid black;
+    background-color: rgb(22, 60, 62);
+    color: azure;
+    font-size: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    text-align: center;
+}
+
+.heico {
+    width: 50%;
+    margin-left: 80px;
+}
+.important{
+    /* border: 1px solid black; */
+    display: flex;
+}
+.imp1{
+    /* border: 1px solid black; */
+width: 50%;
+background-color: rgb(211, 221, 203);
+}
+.imp1 h2{
+    background-color: rgb(42, 107, 107);
+    text-align: center;
+    color: ghostwhite;
+    margin-top: -1px;
+}
+.imp1 a{
+    text-decoration: none;
+    color: black;
+}
+.imp1 a:hover{
+    color: darkmagenta;
+    font-weight: bold;
+}
+.imp2{
+    /* border: 1px solid black; */
+width: 50%; 
+background-color: blanchedalmond;
+margin-left: 2px;
+}
+.imp2 h2{
+    background-color: rgb(42, 107, 107);
+    text-align: center;
+    color: ghostwhite;
+    margin-top: -1px;
+}
+.imp2 h3{
+    color: crimson;
+text-align: center;
+
+}
+.contp{
+   margin-left: 20px;
+   padding: 10px;
+   font-size: larger;
+}

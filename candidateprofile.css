@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headlog1{
+    width: 99.5;
+    height: 30px;
+    /* border: 1px solid black; */
+    background-color: rgb(19, 18, 91);
+    color: ghostwhite;
+   
+}
+.hlogo1{
+margin-left: 70px;
+}
+.hlogo1 a{
+text-decoration: none;
+color: ghostwhite;
+margin-top: 5px;
+}
+.hlgin{
+    float: right;
+    margin-right: 70px;
+    margin-top: -15px;
+    color: ghostwhite;
+    text-decoration: none;
+    font-weight: bold;
+}
+.himage{
+    height: 60px;
+    margin-left: 60px;
+}
+.hmplimt{
+    float: right;
+    margin-right: 120px;
+    height: 60px;
+}
+.impnews{
+    width: 100%;
+    height: 200px;
+    /* border: 1px solid black; */
+    background-image: url(impback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.impwrite{
+    background-color: crimson;
+    color: ghostwhite;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    margin-top: -5px;
+}
+
+.avaser{
+    width: 60%;
+    height: 40px;
+    /* border: 1px solid black; */
+    margin: auto;
+    text-align: center;
+}
+.avli{
+    width: 200px;
+    height: 50px;
+    /* border: 1px solid black; */
+    margin-top: 40px;
+    font-size: 20px;
+    border: none;
+    color: rgb(26, 26, 27);
+    background-color: rgb(206, 206, 216);
+
+
+}
+.candi{
+    width: 200px;
+    height: 50px;
+    margin-top: 40px;
+    font-size: 20px;
+    border: none;
+    background-color: navy;
+    color: ghostwhite;
+
+
+}
+
+.candipro1{
+    height: 350px;
+    margin-top: 80px;
+    background-color: rgb(235, 240, 240);
+}
+.candipro1 h1{
+text-align: center;
+background-color: rgb(213, 220, 218);
+}
+.candipro1 table{
+    padding: 30px;
+}
+.canditd{
+    width: 150%;
+    /* border: 1px solid black; */
+}
+.importntlnk{
+    width: 100%;
+    height: 300px;
+    /* border: 1px solid black; */
+    background-image: url(importantlinks.jpg);
+    background-size: 1200px 300px;
+}
+.importntlnk h1{
+    text-align: center;
+    color: white;
+   padding-top: 50px;
+   padding-bottom: 40px;
+}
+.impbtn{
+    margin-left: 300px;
+    background: none;
+    padding: 10px;
+    border: 2px solid white;
+    color: ghostwhite;
+    font-weight: bold;
+}
+.impbtn:hover{
+    color: black;
+    background-color: white;
+}
+.impbtn1{
+    background: none;
+    padding: 10px;
+    border: 2px solid white;
+    color: ghostwhite;
+    font-weight: bold;
+
+}
+.impbtn1:hover{
+    color: black;
+    background-color: white;
+}

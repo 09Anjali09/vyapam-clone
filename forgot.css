@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headlog1{
+    width: 99.5;
+    height: 30px;
+    /* border: 1px solid black; */
+    background-color: rgb(19, 18, 91);
+    color: ghostwhite;
+   
+}
+.hlogo1{
+margin-left: 70px;
+}
+.hlogo1 a{
+text-decoration: none;
+color: ghostwhite;
+margin-top: 5px;
+}
+.hlgin{
+    float: right;
+    margin-right: 70px;
+    margin-top: -15px;
+    color: ghostwhite;
+    text-decoration: none;
+    font-weight: bold;
+}
+.himage{
+    height: 60px;
+    margin-left: 60px;
+}
+.hmplimt{
+    float: right;
+    margin-right: 120px;
+    height: 60px;
+}
+
+.formain1{
+    width: 90%;
+    height: 400px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 20px;
+}
+.forgothead{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.fortable{
+    width: 60%;
+    height: 315px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(232, 230, 225);
+    padding-left: 30px;
+}
+.fortable table tr td{
+    padding: 10px;
+}
+.forlabel{
+    width: 80%;
+    height: 90px;
+    border: 1px solid rgb(188, 184, 184);
+    text-align: center;
+    margin-bottom: 10px;
+}
+.forbutn{
+    width: 100px;
+    height: 25px;
+    background-color: midnightblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+   
+}
+.formainimg{
+    width: 25px;
+    margin-top: 10px;
+}
